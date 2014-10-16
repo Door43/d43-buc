@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buc:home|Door43 (buc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buc|d43-buc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buc/archive/master.zip|d43-buc.zip]]
+
+**Recent Changes**
+{{changes>ns = buc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buc|Ethnologue data]]
+
